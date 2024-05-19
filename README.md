@@ -19,7 +19,7 @@ Inspired by the [Timestamp Microservice challenge](https://learn.freecodecamp.or
 
 ## Demo
 
-View project demo at [https://autumnchris-timestamp-api.onrender.com/api](https://timestamp-api-b6cw.onrender.com/api).
+View project demo at [https://timestamp-api-b6cw.onrender.com/api](https://timestamp-api-b6cw.onrender.com/api).
 
 ## Instructions
 
