@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/autumnchris/timestamp-api.git"
+    "url": "git+https://github.com/GitHub-Sanjit/timestamp_api.git"
   },
-  "author": "autumnchris",
-  "license": "ISC",
+  "author": "sanjit",
   "bugs": {
-    "url": "https://github.com/autumnchris/timestamp-api/issues"
+    "url": "https://github.com/GitHub-Sanjit/timestamp_api/issues"
   },
-  "homepage": "https://autumnchris-timestamp-api.onrender.com/api",
+  "homepage": "https://timestamp-api-b6cw.onrender.com/api",
   "dependencies": {
     "ejs": "^3.0.1",
     "express": "^4.16.2",
